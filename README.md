@@ -85,6 +85,8 @@ for i in range(0,9):
 
 
 ### Adaptive Thresholding
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/a5829b2f-2ae8-4ccf-91e9-5859f1231a66)
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/347cb803-cc31-4272-af0b-c2cad83c57bc)
 
 
 ### Optimum Global Thesholding using Otsu's Method
