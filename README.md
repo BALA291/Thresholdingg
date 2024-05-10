@@ -21,9 +21,7 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ```
 NAME : BALAMURUGAN B
 REG : 212222230016
-```
 
-```python
 # Load the necessary packages
 
 import numpy as np
@@ -69,42 +67,28 @@ for i in range(0,9):
     plt.axis("off")
     plt.show()
 
-
 ```
 
-<br>
-<br>
 
-```
 ## Output
 
-### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+### Original Image 
+
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/896a5060-0d4a-4627-b8b0-d7c994026727)
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/1a03e9e5-b47c-4d5c-8ff1-eb5c4d8bb3ea)
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/3a0d534c-8a11-48f1-8655-4866b7587c54)
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/d8a2c8cb-2c33-4e50-bed8-d78fb3a63f86)
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/c65b8a57-b438-4522-a1d1-6a20e36b93c6)
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/dffff962-4142-4c08-abf8-d13db895829f)
+
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/BALA291/Thresholdingg/assets/120717501/962144c1-fd6a-4b60-bdc7-bda5b413236d)
 
 
 ## Result
