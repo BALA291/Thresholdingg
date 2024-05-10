@@ -75,39 +75,6 @@ for i in range(0,9):
 <br>
 <br>
 
-
-# Load the necessary packages
-
-
-
-
-
-# Read the Image and convert to grayscale
-
-
-
-
-# Use Global thresholding to segment the image
-
-
-
-
-# Use Adaptive thresholding to segment the image
-
-
-
-
-# Use Otsu's method to segment the image 
-
-
-
-
-# Display the results
-
-
-
-
-
 ```
 ## Output
 
